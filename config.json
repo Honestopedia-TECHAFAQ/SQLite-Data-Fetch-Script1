@@ -1,0 +1,13 @@
+{
+    "db_path": "path/to/your/database.sqlite",
+    "db_password": "your_db_password",
+    "ftp": {
+        "server": "ftp.example.com",
+        "username": "your_ftp_username",
+        "password": "your_ftp_password",
+        "port": 21,
+        "csv_path": "path/to/local/csv/output.csv",
+        "destination_path": "path/to/upload/on/ftp/output.csv"
+    },
+    "last_execution_timestamp": "2024-01-01T00:00:00"
+}
